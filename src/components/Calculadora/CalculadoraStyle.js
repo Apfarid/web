@@ -32,6 +32,7 @@ export const calculadoraStyle = makeStyles((theme) => ({
       backgroundColor:'#fff',
       borderRadius: 10,
       alignItems:'center',
+      textAlign:'center',
       justifyContent:'center',
       //display:'flex',
       color:'black',

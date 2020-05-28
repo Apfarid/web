@@ -21,9 +21,7 @@ const Main = () => {
               <div className="service-area">
                 <div className="container">
                   <h4 className="titulocalculadora">Calcula tu crédito</h4>
-                  {/*<!-- aquí va la calculadora
-							-->*/}
-                    <Calculadora/>
+                  <Calculadora/>
                     <br/>
                   <button
                     type="button"
